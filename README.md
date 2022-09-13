@@ -706,6 +706,8 @@ console.log(admin.name); // Pete
 // Изменения, сделанные в 1.js, будут видны в 2.js
 ```
 
+https://stackoverflow.com/questions/32558514/javascript-es6-export-const-vs-export-let
+
 ## Импорт без присваивания
 
 Просто выполнится код.
