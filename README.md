@@ -1797,3 +1797,4 @@ Node.js и Deno устроены похоже, только в Node вместо
 - [https://developer.mozilla.org/en-US/docs/Web/API/setInterval#delay_restrictions](https://developer.mozilla.org/en-US/docs/Web/API/setInterval#delay_restrictions)
 - [https://developer.chrome.com/blog/timer-throttling-in-chrome-88/](https://developer.chrome.com/blog/timer-throttling-in-chrome-88/)
 - https://www.reddit.com/r/javascript/comments/vgs7y1/why_you_should_prefer_map_over_object_in/
+- https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
