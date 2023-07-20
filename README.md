@@ -1799,3 +1799,6 @@ Node.js и Deno устроены похоже, только в Node вместо
 - https://www.reddit.com/r/javascript/comments/vgs7y1/why_you_should_prefer_map_over_object_in/
 - https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
 - https://github.com/tc39/proposal-weakrefs/
+- https://habr.com/ru/amp/publications/731644/
+- v8.dev
+- https://webkit.org/blog/
